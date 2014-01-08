@@ -1,0 +1,1 @@
+{"heuristicOpponentMobility":1,"cacheStateMachine":false,"mcDecayRate":0,"heuristicMobility":1,"stateMachine":"Prover","heuristicFocus":1,"heuristicOpponentFocus":1,"name":"Egghead4","useAlphaBeta":false,"strategy":"Legal","maxPlys":1,"mctsExploreType":"Optimistic","mctsFactorC":10,"metagameStrategy":"None"}
